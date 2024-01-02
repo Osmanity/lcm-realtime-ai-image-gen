@@ -1,5 +1,8 @@
 # LCM Turbo - real-time, instant text to image with Excalidraw, WebSockets, Next.js, and Fal.ai
 
+watch the tutorial here:
+https://www.youtube.com/watch?v=freyCo3pcz4&ab_channel=NaderDabit
+
 This is an example of how to build a real-time text to image app using the Fal.ai Serverless Client SDK.
 
 ![Fal Real Time App Example](rt.gif)
